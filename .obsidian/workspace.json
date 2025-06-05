@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kombinatorika - úlohy 1 - zadání.md",
+                "file": "Kombinatorika - shrnutí.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kombinatorika - úlohy 1 - zadání"
+              "title": "Kombinatorika - shrnutí"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kombinatorika - úlohy 1 - zadání.md",
+                "file": "Kombinatorika - shrnutí.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Kombinatorika - úlohy 1 - zadání"
+              "title": "Zpětné odkazy pro Kombinatorika - shrnutí"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kombinatorika - úlohy 1 - zadání.md",
+                "file": "Kombinatorika - shrnutí.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Kombinatorika - úlohy 1 - zadání"
+              "title": "Odchozí odkazy z Kombinatorika - shrnutí"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kombinatorika - úlohy 1 - zadání.md",
+                "file": "Kombinatorika - shrnutí.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled Kombinatorika - úlohy 1 - zadání"
+              "title": "Přehled Kombinatorika - shrnutí"
             }
           }
         ]
@@ -211,11 +211,12 @@
       "command-palette:Otevřít paletu příkazů": false
     }
   },
-  "active": "bc954438f117b624",
+  "active": "c5fe63bc7e43578f",
   "lastOpenFiles": [
     "Kombinatorika - úlohy 1 - řešení.md",
-    "Kombinatorika - shrnutí.md",
+    "Bez názvu.canvas",
     "Kombinatorika - úlohy 1 - zadání.md",
+    "Kombinatorika - shrnutí.md",
     "README.md"
   ]
 }
