@@ -1,0 +1,1 @@
+Ahoj. Aby se ti v Obsidianu správně zobrazovaly vzorce, musíš si nainstalovat rozšíření LaTeX Suite.
