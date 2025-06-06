@@ -18,6 +18,7 @@ Kolika způsoby lze seřadit 6 různých knih do jedné police?
 **Řešení:**  
 Jedná se o permutace 6 prvků, protože uspořádáváme všech 6 knih a žádná se neopakuje.  
 Počet možností: 
+
 $$
 P(6) = 6! = 720
 $$
@@ -44,6 +45,7 @@ Kolik různých tříciferných kódů lze vytvořit z číslic 0–9, když se 
 **Řešení:**  
 Záleží na pořadí a číslice se mohou opakovat.  
 Počet možností: 
+
 $$ 
 10^3 = 1000
 $$
@@ -57,6 +59,7 @@ Kolika způsoby lze vybrat 5 studentů z 18členné třídy, kteří pojedou na 
 **Řešení:**  
 Nezáleží na pořadí (všichni jedou jako tým) a neopakují se.  
 Počet možností:  
+
 $$
 \binom{18}{5} = 8568
 $$
@@ -70,6 +73,7 @@ V cukrárně mají 4 druhy zákusků. Kolika způsoby si můžeš vybrat 6 záku
 **Řešení:**  
 Nezáleží na pořadí, zákusky se mohou opakovat.  
 Počet možností:  
+
 $$
 \binom{4 + 6 - 1}{6} = \binom{9}{6} = 84
 $$
