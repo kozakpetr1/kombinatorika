@@ -1,4 +1,13 @@
 
+| Typ úlohy                | Označení           | Vzorec                                                           | Poznámka                                          |
+|--------------------------|--------------------|-------------------------------------------------------------------|---------------------------------------------------|
+| Variace bez opakování    | $$ V(n, k) $$       | $$ V(n, k) = \frac{n!}{(n - k)!} $$                              | Záleží na pořadí, bez opakování                   |
+| Variace s opakováním     | $$ V'(n, k) $$      | $$ V'(n, k) = n^k $$                                             | Záleží na pořadí, s opakováním                    |
+| Permutace                | $$ P(n) $$          | $$ P(n) = n! $$                                                  | Pořadí důležité, všech $$ n $$ prvků              |
+| Permutace s opakováním   | $$ P(n; n_1, \dots, n_k) $$ | $$ P = \frac{n!}{n_1! \cdot n_2! \cdots n_k!} $$        | Některé prvky se opakují                           |
+| Kombinace bez opakování  | $$ C(n, k) $$       | $$ C(n, k) = \binom{n}{k} = \frac{n!}{k!(n - k)!} $$             | Na pořadí nezáleží, bez opakování                 |
+| Kombinace s opakováním   | $$ C'(n, k) $$      | $$ C'(n, k) = \binom{n + k - 1}{k} $$                            | Na pořadí nezáleží, s opakováním                  |
+
 ---
 
 ### **1. Permutace (uspořádaný výběr všech prvků, bez opakování)**
