@@ -88,4 +88,3 @@
 
 ---
 
-Chceš-li některé příklady převést na test (výběr z možností), přidat řešení nebo zkontrolovat obtížnost, dej vědět!
